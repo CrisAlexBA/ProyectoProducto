@@ -3,7 +3,10 @@ package Tienda;
 
 import java.util.ArrayList;
 
-
+/**
+ *
+ * @author Cristian Alexander Bedon Astudillo
+ */
 public class Producto{
     private String nombre;
     private int precio;

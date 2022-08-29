@@ -2,7 +2,10 @@
 package Tienda;
 
 import java.util.ArrayList;
-
+/**
+ *
+ * @author Cristian Alexander Bedon Astudillo
+ */
 public class Categoria {
     private String nombre;
     ArrayList<Producto> listaProductos;

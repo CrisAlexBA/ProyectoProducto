@@ -2,7 +2,10 @@
 package Tienda;
 
 import java.util.ArrayList;
-
+/**
+ *
+ * @author Cristian Alexander Bedon Astudillo
+ */
 public class Empresa {
     ArrayList<Categoria> listaCategorias;
 
